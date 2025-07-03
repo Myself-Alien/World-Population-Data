@@ -1,0 +1,38 @@
+.title
+{
+  text-align: center;
+  font-weight: 800;
+  color: #0D7377;
+}
+body
+{
+  background-color: #E8988A !important;
+}
+.list-group-item
+{
+  background-color: #0D7377 !important;
+  margin-bottom: 20px !important;
+  border: none !important;
+}
+.table>:not(caption)>*>*
+{
+  background-color:#0D7377 !important;
+  color: #fff !important;
+}
+.list-group-item:first-child{
+  border-radius: 0% !important;
+}
+.input
+{
+  width: 100%;
+  border: 1px solid #0D7377;
+}
+.country{
+  font-size: 2em;
+  font-weight: 600;
+  color: #fff;
+}
+.form-control
+{
+  border-radius: 0% !important;
+}
