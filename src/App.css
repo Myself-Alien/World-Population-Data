@@ -39,7 +39,7 @@ body
   color: #fff;
   text-indent: 5px;
 }
-.form-control
+.nodata
 {
-  
+  color: #fff !important;
 }
