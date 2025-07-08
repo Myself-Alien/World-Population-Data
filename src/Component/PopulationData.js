@@ -9,7 +9,6 @@ const PopulationData = () => {
 
     const getData = (e) => {
         setSearch(e.target.value);
-
     }
     let filterOut = country.filter((filterData) => {
         return filterData.country.toLowerCase().includes(search.toLowerCase());
@@ -24,7 +23,7 @@ const PopulationData = () => {
                     transition={{ duration: 0.2 }}
                     className='form-control input mb-4'
                     placeholder="Search a country..."
-                     onChange={getData}
+                    onChange={getData}
                 />
                 {/*<input
                     type='text'
@@ -77,7 +76,6 @@ const PopulationData = () => {
                     ))
                 )}
             </ul>
-
         </div>
     );
 }
