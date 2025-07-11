@@ -16,7 +16,7 @@ This is a simple React application that displays population data for countries a
 ## 📸 Screenshot
 
 
-![WORLD POPULATION DATA](https://github.com/user-attachments/assets/88d38d40-352b-45f3-9d14-ff1db6ce43ec)
+![WORLD POPULATION DATA](https://github.com/user-attachments/assets/1e72be26-387b-44a9-b139-44bb3f3197b6)
 
 
 
