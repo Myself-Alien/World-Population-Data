@@ -2,6 +2,7 @@
   {
     "position": "1",
     "country": "China",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg",
     "population": "1,439,323,776",
     "yearly_change": "0.39 %",
     "net_change": "5,540,090",
@@ -16,6 +17,7 @@
   {
     "position": "2",
     "country": "India",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg",
     "population": "1,380,004,385",
     "yearly_change": "0.99 %",
     "net_change": "13,586,631",
@@ -30,6 +32,7 @@
   {
     "position": "3",
     "country": "United States",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
     "population": "331,002,651",
     "yearly_change": "0.59 %",
     "net_change": "1,937,734",
@@ -44,6 +47,7 @@
   {
     "position": "4",
     "country": "Indonesia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg",
     "population": "273,523,615",
     "yearly_change": "1.07 %",
     "net_change": "2,898,047",
@@ -58,6 +62,7 @@
   {
     "position": "5",
     "country": "Pakistan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg",
     "population": "220,892,340",
     "yearly_change": "2.00 %",
     "net_change": "4,327,022",
@@ -72,6 +77,7 @@
   {
     "position": "6",
     "country": "Brazil",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg",
     "population": "212,559,417",
     "yearly_change": "0.72 %",
     "net_change": "1,509,890",
@@ -86,6 +92,7 @@
   {
     "position": "7",
     "country": "Nigeria",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg",
     "population": "206,139,589",
     "yearly_change": "2.58 %",
     "net_change": "5,175,990",
@@ -100,6 +107,7 @@
   {
     "position": "8",
     "country": "Bangladesh",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg",
     "population": "164,689,383",
     "yearly_change": "1.01 %",
     "net_change": "1,643,222",
@@ -114,6 +122,7 @@
   {
     "position": "9",
     "country": "Russia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg",
     "population": "145,934,462",
     "yearly_change": "0.04 %",
     "net_change": "62,206",
@@ -128,6 +137,7 @@
   {
     "position": "10",
     "country": "Mexico",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg",
     "population": "128,932,753",
     "yearly_change": "1.06 %",
     "net_change": "1,357,224",
@@ -142,6 +152,7 @@
   {
     "position": "11",
     "country": "Japan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg",
     "population": "126,476,461",
     "yearly_change": "-0.30 %",
     "net_change": "-383,840",
@@ -156,6 +167,7 @@
   {
     "position": "12",
     "country": "Ethiopia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg",
     "population": "114,963,588",
     "yearly_change": "2.57 %",
     "net_change": "2,884,858",
@@ -170,6 +182,7 @@
   {
     "position": "13",
     "country": "Philippines",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg",
     "population": "109,581,078",
     "yearly_change": "1.35 %",
     "net_change": "1,464,463",
@@ -184,6 +197,7 @@
   {
     "position": "14",
     "country": "Egypt",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg",
     "population": "102,334,404",
     "yearly_change": "1.94 %",
     "net_change": "1,946,331",
@@ -198,6 +212,7 @@
   {
     "position": "15",
     "country": "Vietnam",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg",
     "population": "97,338,579",
     "yearly_change": "0.91 %",
     "net_change": "876,473",
@@ -226,6 +241,7 @@
   {
     "position": "17",
     "country": "Turkey",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg",
     "population": "84,339,067",
     "yearly_change": "1.09 %",
     "net_change": "909,452",
@@ -240,6 +256,7 @@
   {
     "position": "18",
     "country": "Iran",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg",
     "population": "83,992,949",
     "yearly_change": "1.30 %",
     "net_change": "1,079,043",
@@ -254,6 +271,7 @@
   {
     "position": "19",
     "country": "Germany",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg",
     "population": "83,783,942",
     "yearly_change": "0.32 %",
     "net_change": "266,897",
@@ -268,6 +286,7 @@
   {
     "position": "20",
     "country": "Thailand",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg",
     "population": "69,799,978",
     "yearly_change": "0.25 %",
     "net_change": "174,396",
@@ -282,6 +301,7 @@
   {
     "position": "21",
     "country": "United Kingdom",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg",
     "population": "67,886,011",
     "yearly_change": "0.53 %",
     "net_change": "355,839",
@@ -296,6 +316,7 @@
   {
     "position": "22",
     "country": "France",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
     "population": "65,273,511",
     "yearly_change": "0.22 %",
     "net_change": "143,783",
@@ -310,6 +331,7 @@
   {
     "position": "23",
     "country": "Italy",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg",
     "population": "60,461,826",
     "yearly_change": "-0.15 %",
     "net_change": "-88,249",
@@ -324,6 +346,7 @@
   {
     "position": "24",
     "country": "Tanzania",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg",
     "population": "59,734,218",
     "yearly_change": "2.98 %",
     "net_change": "1,728,755",
@@ -338,6 +361,7 @@
   {
     "position": "25",
     "country": "South Africa",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg",
     "population": "59,308,690",
     "yearly_change": "1.28 %",
     "net_change": "750,420",
@@ -352,6 +376,7 @@
   {
     "position": "26",
     "country": "Myanmar",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg",
     "population": "54,409,800",
     "yearly_change": "0.67 %",
     "net_change": "364,380",
@@ -366,6 +391,7 @@
   {
     "position": "27",
     "country": "Kenya",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg",
     "population": "53,771,296",
     "yearly_change": "2.28 %",
     "net_change": "1,197,323",
@@ -380,6 +406,7 @@
   {
     "position": "28",
     "country": "South Korea",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg",
     "population": "51,269,185",
     "yearly_change": "0.09 %",
     "net_change": "43,877",
@@ -394,6 +421,7 @@
   {
     "position": "29",
     "country": "Colombia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg",
     "population": "50,882,891",
     "yearly_change": "1.08 %",
     "net_change": "543,448",
@@ -408,6 +436,7 @@
   {
     "position": "30",
     "country": "Spain",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
     "population": "46,754,778",
     "yearly_change": "0.04 %",
     "net_change": "18,002",
@@ -422,6 +451,7 @@
   {
     "position": "31",
     "country": "Uganda",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg",
     "population": "45,741,007",
     "yearly_change": "3.32 %",
     "net_change": "1,471,413",
@@ -436,6 +466,7 @@
   {
     "position": "32",
     "country": "Argentina",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
     "population": "45,195,774",
     "yearly_change": "0.93 %",
     "net_change": "415,097",
@@ -450,6 +481,7 @@
   {
     "position": "33",
     "country": "Algeria",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg",
     "population": "43,851,044",
     "yearly_change": "1.85 %",
     "net_change": "797,990",
@@ -464,6 +496,7 @@
   {
     "position": "34",
     "country": "Sudan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg",
     "population": "43,849,260",
     "yearly_change": "2.42 %",
     "net_change": "1,036,022",
@@ -478,6 +511,7 @@
   {
     "position": "35",
     "country": "Ukraine",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg",
     "population": "43,733,762",
     "yearly_change": "-0.59 %",
     "net_change": "-259,876",
@@ -492,6 +526,7 @@
   {
     "position": "36",
     "country": "Iraq",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg",
     "population": "40,222,493",
     "yearly_change": "2.32 %",
     "net_change": "912,710",
@@ -506,6 +541,7 @@
   {
     "position": "37",
     "country": "Afghanistan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg",
     "population": "38,928,346",
     "yearly_change": "2.33 %",
     "net_change": "886,592",
@@ -520,6 +556,7 @@
   {
     "position": "38",
     "country": "Poland",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
     "population": "37,846,611",
     "yearly_change": "-0.11 %",
     "net_change": "-41,157",
@@ -534,6 +571,7 @@
   {
     "position": "39",
     "country": "Canada",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
     "population": "37,742,154",
     "yearly_change": "0.89 %",
     "net_change": "331,107",
@@ -548,6 +586,7 @@
   {
     "position": "40",
     "country": "Morocco",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg",
     "population": "36,910,560",
     "yearly_change": "1.20 %",
     "net_change": "438,791",
@@ -562,6 +601,7 @@
   {
     "position": "41",
     "country": "Saudi Arabia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg",
     "population": "34,813,871",
     "yearly_change": "1.59 %",
     "net_change": "545,343",
@@ -576,6 +616,7 @@
   {
     "position": "42",
     "country": "Uzbekistan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg",
     "population": "33,469,203",
     "yearly_change": "1.48 %",
     "net_change": "487,487",
@@ -590,6 +631,7 @@
   {
     "position": "43",
     "country": "Peru",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg",
     "population": "32,971,854",
     "yearly_change": "1.42 %",
     "net_change": "461,401",
@@ -604,6 +646,7 @@
   {
     "position": "44",
     "country": "Angola",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg",
     "population": "32,866,272",
     "yearly_change": "3.27 %",
     "net_change": "1,040,977",
@@ -618,6 +661,7 @@
   {
     "position": "45",
     "country": "Malaysia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg",
     "population": "32,365,999",
     "yearly_change": "1.30 %",
     "net_change": "416,222",
@@ -632,6 +676,7 @@
   {
     "position": "46",
     "country": "Mozambique",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg",
     "population": "31,255,435",
     "yearly_change": "2.93 %",
     "net_change": "889,399",
@@ -646,6 +691,7 @@
   {
     "position": "47",
     "country": "Ghana",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg",
     "population": "31,072,940",
     "yearly_change": "2.15 %",
     "net_change": "655,084",
@@ -660,6 +706,7 @@
   {
     "position": "48",
     "country": "Yemen",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg",
     "population": "29,825,964",
     "yearly_change": "2.28 %",
     "net_change": "664,042",
@@ -674,6 +721,7 @@
   {
     "position": "49",
     "country": "Nepal",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg",
     "population": "29,136,808",
     "yearly_change": "1.85 %",
     "net_change": "528,098",
@@ -688,6 +736,7 @@
   {
     "position": "50",
     "country": "Venezuela",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg",
     "population": "28,435,940",
     "yearly_change": "-0.28 %",
     "net_change": "-79,889",
@@ -702,6 +751,7 @@
   {
     "position": "51",
     "country": "Madagascar",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg",
     "population": "27,691,018",
     "yearly_change": "2.68 %",
     "net_change": "721,711",
@@ -716,6 +766,7 @@
   {
     "position": "52",
     "country": "Cameroon",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg",
     "population": "26,545,863",
     "yearly_change": "2.59 %",
     "net_change": "669,483",
@@ -744,6 +795,7 @@
   {
     "position": "54",
     "country": "North Korea",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg",
     "population": "25,778,816",
     "yearly_change": "0.44 %",
     "net_change": "112,655",
@@ -758,6 +810,7 @@
   {
     "position": "55",
     "country": "Australia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg",
     "population": "25,499,884",
     "yearly_change": "1.18 %",
     "net_change": "296,686",
@@ -772,6 +825,7 @@
   {
     "position": "56",
     "country": "Niger",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg",
     "population": "24,206,644",
     "yearly_change": "3.84 %",
     "net_change": "895,929",
@@ -786,6 +840,7 @@
   {
     "position": "57",
     "country": "Taiwan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg",
     "population": "23,816,775",
     "yearly_change": "0.18 %",
     "net_change": "42,899",
@@ -800,6 +855,7 @@
   {
     "position": "58",
     "country": "Sri Lanka",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg",
     "population": "21,413,249",
     "yearly_change": "0.42 %",
     "net_change": "89,516",
@@ -814,6 +870,7 @@
   {
     "position": "59",
     "country": "Burkina Faso",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg",
     "population": "20,903,273",
     "yearly_change": "2.86 %",
     "net_change": "581,895",
@@ -828,6 +885,7 @@
   {
     "position": "60",
     "country": "Mali",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg",
     "population": "20,250,833",
     "yearly_change": "3.02 %",
     "net_change": "592,802",
@@ -842,6 +900,7 @@
   {
     "position": "61",
     "country": "Romania",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg",
     "population": "19,237,691",
     "yearly_change": "-0.66 %",
     "net_change": "-126,866",
@@ -856,6 +915,7 @@
   {
     "position": "62",
     "country": "Malawi",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg",
     "population": "19,129,952",
     "yearly_change": "2.69 %",
     "net_change": "501,205",
@@ -870,6 +930,7 @@
   {
     "position": "63",
     "country": "Chile",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg",
     "population": "19,116,201",
     "yearly_change": "0.87 %",
     "net_change": "164,163",
@@ -884,6 +945,7 @@
   {
     "position": "64",
     "country": "Kazakhstan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
     "population": "18,776,707",
     "yearly_change": "1.21 %",
     "net_change": "225,280",
@@ -898,6 +960,7 @@
   {
     "position": "65",
     "country": "Zambia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg",
     "population": "18,383,955",
     "yearly_change": "2.93 %",
     "net_change": "522,925",
@@ -912,6 +975,7 @@
   {
     "position": "66",
     "country": "Guatemala",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg",
     "population": "17,915,568",
     "yearly_change": "1.90 %",
     "net_change": "334,096",
@@ -926,6 +990,7 @@
   {
     "position": "67",
     "country": "Ecuador",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg",
     "population": "17,643,054",
     "yearly_change": "1.55 %",
     "net_change": "269,392",
@@ -940,6 +1005,7 @@
   {
     "position": "68",
     "country": "Syria",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg",
     "population": "17,500,658",
     "yearly_change": "2.52 %",
     "net_change": "430,523",
@@ -954,6 +1020,7 @@
   {
     "position": "69",
     "country": "Netherlands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
     "population": "17,134,872",
     "yearly_change": "0.22 %",
     "net_change": "37,742",
@@ -968,6 +1035,7 @@
   {
     "position": "70",
     "country": "Senegal",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg",
     "population": "16,743,927",
     "yearly_change": "2.75 %",
     "net_change": "447,563",
@@ -982,6 +1050,7 @@
   {
     "position": "71",
     "country": "Cambodia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg",
     "population": "16,718,965",
     "yearly_change": "1.41 %",
     "net_change": "232,423",
@@ -996,6 +1065,7 @@
   {
     "position": "72",
     "country": "Chad",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg",
     "population": "16,425,864",
     "yearly_change": "3.00 %",
     "net_change": "478,988",
@@ -1010,6 +1080,7 @@
   {
     "position": "73",
     "country": "Somalia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg",
     "population": "15,893,222",
     "yearly_change": "2.92 %",
     "net_change": "450,317",
@@ -1024,6 +1095,7 @@
   {
     "position": "74",
     "country": "Zimbabwe",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg",
     "population": "14,862,924",
     "yearly_change": "1.48 %",
     "net_change": "217,456",
@@ -1038,6 +1110,7 @@
   {
     "position": "75",
     "country": "Guinea",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg",
     "population": "13,132,795",
     "yearly_change": "2.83 %",
     "net_change": "361,549",
@@ -1052,6 +1125,7 @@
   {
     "position": "76",
     "country": "Rwanda",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg",
     "population": "12,952,218",
     "yearly_change": "2.58 %",
     "net_change": "325,268",
@@ -1066,6 +1140,7 @@
   {
     "position": "77",
     "country": "Benin",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg",
     "population": "12,123,200",
     "yearly_change": "2.73 %",
     "net_change": "322,049",
@@ -1080,6 +1155,7 @@
   {
     "position": "78",
     "country": "Burundi",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg",
     "population": "11,890,784",
     "yearly_change": "3.12 %",
     "net_change": "360,204",
@@ -1094,6 +1170,7 @@
   {
     "position": "79",
     "country": "Tunisia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg",
     "population": "11,818,619",
     "yearly_change": "1.06 %",
     "net_change": "123,900",
@@ -1108,6 +1185,7 @@
   {
     "position": "80",
     "country": "Bolivia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg",
     "population": "11,673,021",
     "yearly_change": "1.39 %",
     "net_change": "159,921",
@@ -1122,6 +1200,7 @@
   {
     "position": "81",
     "country": "Belgium",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg",
     "population": "11,589,623",
     "yearly_change": "0.44 %",
     "net_change": "50,295",
@@ -1136,6 +1215,7 @@
   {
     "position": "82",
     "country": "Haiti",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg",
     "population": "11,402,528",
     "yearly_change": "1.24 %",
     "net_change": "139,451",
@@ -1150,6 +1230,7 @@
   {
     "position": "83",
     "country": "Cuba",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg",
     "population": "11,326,616",
     "yearly_change": "-0.06 %",
     "net_change": "-6,867",
@@ -1164,6 +1245,7 @@
   {
     "position": "84",
     "country": "South Sudan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SS.svg",
     "population": "11,193,725",
     "yearly_change": "1.19 %",
     "net_change": "131,612",
@@ -1178,6 +1260,7 @@
   {
     "position": "85",
     "country": "Dominican Republic",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg",
     "population": "10,847,910",
     "yearly_change": "1.01 %",
     "net_change": "108,952",
@@ -1192,6 +1275,7 @@
   {
     "position": "86",
     "country": "Czech Republic (Czechia)",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg",
     "population": "10,708,981",
     "yearly_change": "0.18 %",
     "net_change": "19,772",
@@ -1206,6 +1290,7 @@
   {
     "position": "87",
     "country": "Greece",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg",
     "population": "10,423,054",
     "yearly_change": "-0.48 %",
     "net_change": "-50,401",
@@ -1220,6 +1305,7 @@
   {
     "position": "88",
     "country": "Jordan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg",
     "population": "10,203,134",
     "yearly_change": "1.00 %",
     "net_change": "101,440",
@@ -1234,6 +1320,7 @@
   {
     "position": "89",
     "country": "Portugal",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg",
     "population": "10,196,709",
     "yearly_change": "-0.29 %",
     "net_change": "-29,478",
@@ -1248,6 +1335,7 @@
   {
     "position": "90",
     "country": "Azerbaijan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg",
     "population": "10,139,177",
     "yearly_change": "0.91 %",
     "net_change": "91,459",
@@ -1276,6 +1364,7 @@
   {
     "position": "92",
     "country": "Honduras",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg",
     "population": "9,904,607",
     "yearly_change": "1.63 %",
     "net_change": "158,490",
@@ -1290,6 +1379,7 @@
   {
     "position": "93",
     "country": "United Arab Emirates",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg",
     "population": "9,890,402",
     "yearly_change": "1.23 %",
     "net_change": "119,873",
@@ -1304,6 +1394,7 @@
   {
     "position": "94",
     "country": "Hungary",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg",
     "population": "9,660,351",
     "yearly_change": "-0.25 %",
     "net_change": "-24,328",
@@ -1318,6 +1409,7 @@
   {
     "position": "95",
     "country": "Tajikistan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg",
     "population": "9,537,645",
     "yearly_change": "2.32 %",
     "net_change": "216,627",
@@ -1332,6 +1424,7 @@
   {
     "position": "96",
     "country": "Belarus",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg",
     "population": "9,449,323",
     "yearly_change": "-0.03 %",
     "net_change": "-3,088",
@@ -1346,6 +1439,7 @@
   {
     "position": "97",
     "country": "Austria",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg",
     "population": "9,006,398",
     "yearly_change": "0.57 %",
     "net_change": "51,296",
@@ -1360,6 +1454,7 @@
   {
     "position": "98",
     "country": "Papua New Guinea",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg",
     "population": "8,947,024",
     "yearly_change": "1.95 %",
     "net_change": "170,915",
@@ -1374,6 +1469,7 @@
   {
     "position": "99",
     "country": "Serbia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg",
     "population": "8,737,371",
     "yearly_change": "-0.40 %",
     "net_change": "-34,864",
@@ -1388,6 +1484,7 @@
   {
     "position": "100",
     "country": "Israel",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
     "population": "8,655,535",
     "yearly_change": "1.60 %",
     "net_change": "136,158",
@@ -1402,6 +1499,7 @@
   {
     "position": "101",
     "country": "Switzerland",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg",
     "population": "8,654,622",
     "yearly_change": "0.74 %",
     "net_change": "63,257",
@@ -1416,6 +1514,7 @@
   {
     "position": "102",
     "country": "Togo",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg",
     "population": "8,278,724",
     "yearly_change": "2.43 %",
     "net_change": "196,358",
@@ -1430,6 +1529,7 @@
   {
     "position": "103",
     "country": "Sierra Leone",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg",
     "population": "7,976,983",
     "yearly_change": "2.10 %",
     "net_change": "163,768",
@@ -1444,6 +1544,7 @@
   {
     "position": "104",
     "country": "Hong Kong",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg",
     "population": "7,496,981",
     "yearly_change": "0.82 %",
     "net_change": "60,827",
@@ -1458,6 +1559,7 @@
   {
     "position": "105",
     "country": "Laos",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg",
     "population": "7,275,560",
     "yearly_change": "1.48 %",
     "net_change": "106,105",
@@ -1472,6 +1574,7 @@
   {
     "position": "106",
     "country": "Paraguay",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg",
     "population": "7,132,538",
     "yearly_change": "1.25 %",
     "net_change": "87,902",
@@ -1486,6 +1589,7 @@
   {
     "position": "107",
     "country": "Bulgaria",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg",
     "population": "6,948,445",
     "yearly_change": "-0.74 %",
     "net_change": "-51,674",
@@ -1500,6 +1604,7 @@
   {
     "position": "108",
     "country": "Libya",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg",
     "population": "6,871,292",
     "yearly_change": "1.38 %",
     "net_change": "93,840",
@@ -1514,6 +1619,7 @@
   {
     "position": "109",
     "country": "Lebanon",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg",
     "population": "6,825,445",
     "yearly_change": "-0.44 %",
     "net_change": "-30,268",
@@ -1528,6 +1634,7 @@
   {
     "position": "110",
     "country": "Nicaragua",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg",
     "population": "6,624,554",
     "yearly_change": "1.21 %",
     "net_change": "79,052",
@@ -1542,6 +1649,7 @@
   {
     "position": "111",
     "country": "Kyrgyzstan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg",
     "population": "6,524,195",
     "yearly_change": "1.69 %",
     "net_change": "108,345",
@@ -1556,6 +1664,7 @@
   {
     "position": "112",
     "country": "El Salvador",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg",
     "population": "6,486,205",
     "yearly_change": "0.51 %",
     "net_change": "32,652",
@@ -1570,6 +1679,7 @@
   {
     "position": "113",
     "country": "Turkmenistan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg",
     "population": "6,031,200",
     "yearly_change": "1.50 %",
     "net_change": "89,111",
@@ -1584,6 +1694,7 @@
   {
     "position": "114",
     "country": "Singapore",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg",
     "population": "5,850,342",
     "yearly_change": "0.79 %",
     "net_change": "46,005",
@@ -1598,6 +1709,7 @@
   {
     "position": "115",
     "country": "Denmark",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg",
     "population": "5,792,202",
     "yearly_change": "0.35 %",
     "net_change": "20,326",
@@ -1612,6 +1724,7 @@
   {
     "position": "116",
     "country": "Finland",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg",
     "population": "5,540,720",
     "yearly_change": "0.15 %",
     "net_change": "8,564",
@@ -1626,6 +1739,7 @@
   {
     "position": "117",
     "country": "Congo",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg",
     "population": "5,518,087",
     "yearly_change": "2.56 %",
     "net_change": "137,579",
@@ -1640,6 +1754,7 @@
   {
     "position": "118",
     "country": "Slovakia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg",
     "population": "5,459,642",
     "yearly_change": "0.05 %",
     "net_change": "2,629",
@@ -1654,6 +1769,7 @@
   {
     "position": "119",
     "country": "Norway",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg",
     "population": "5,421,241",
     "yearly_change": "0.79 %",
     "net_change": "42,384",
@@ -1668,6 +1784,7 @@
   {
     "position": "120",
     "country": "Oman",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg",
     "population": "5,106,626",
     "yearly_change": "2.65 %",
     "net_change": "131,640",
@@ -1682,6 +1799,7 @@
   {
     "position": "121",
     "country": "State of Palestine",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PS.svg",
     "population": "5,101,414",
     "yearly_change": "2.41 %",
     "net_change": "119,994",
@@ -1696,6 +1814,7 @@
   {
     "position": "122",
     "country": "Costa Rica",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg",
     "population": "5,094,118",
     "yearly_change": "0.92 %",
     "net_change": "46,557",
@@ -1710,6 +1829,7 @@
   {
     "position": "123",
     "country": "Liberia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg",
     "population": "5,057,681",
     "yearly_change": "2.44 %",
     "net_change": "120,307",
@@ -1724,6 +1844,7 @@
   {
     "position": "124",
     "country": "Ireland",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg",
     "population": "4,937,786",
     "yearly_change": "1.13 %",
     "net_change": "55,291",
@@ -1738,6 +1859,7 @@
   {
     "position": "125",
     "country": "Central African Republic",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg",
     "population": "4,829,767",
     "yearly_change": "1.78 %",
     "net_change": "84,582",
@@ -1752,6 +1874,7 @@
   {
     "position": "126",
     "country": "New Zealand",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg",
     "population": "4,822,233",
     "yearly_change": "0.82 %",
     "net_change": "39,170",
@@ -1766,6 +1889,7 @@
   {
     "position": "127",
     "country": "Mauritania",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg",
     "population": "4,649,658",
     "yearly_change": "2.74 %",
     "net_change": "123,962",
@@ -1780,6 +1904,7 @@
   {
     "position": "128",
     "country": "Panama",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg",
     "population": "4,314,767",
     "yearly_change": "1.61 %",
     "net_change": "68,328",
@@ -1794,6 +1919,7 @@
   {
     "position": "129",
     "country": "Kuwait",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg",
     "population": "4,270,571",
     "yearly_change": "1.51 %",
     "net_change": "63,488",
@@ -1808,6 +1934,7 @@
   {
     "position": "130",
     "country": "Croatia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg",
     "population": "4,105,267",
     "yearly_change": "-0.61 %",
     "net_change": "-25,037",
@@ -1822,6 +1949,7 @@
   {
     "position": "131",
     "country": "Moldova",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg",
     "population": "4,033,963",
     "yearly_change": "-0.23 %",
     "net_change": "-9,300",
@@ -1836,6 +1964,7 @@
   {
     "position": "132",
     "country": "Georgia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GE.svg",
     "population": "3,989,167",
     "yearly_change": "-0.19 %",
     "net_change": "-7,598",
@@ -1850,6 +1979,7 @@
   {
     "position": "133",
     "country": "Eritrea",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg",
     "population": "3,546,421",
     "yearly_change": "1.41 %",
     "net_change": "49,304",
@@ -1864,6 +1994,7 @@
   {
     "position": "134",
     "country": "Uruguay",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg",
     "population": "3,473,730",
     "yearly_change": "0.35 %",
     "net_change": "11,996",
@@ -1878,6 +2009,7 @@
   {
     "position": "135",
     "country": "Bosnia and Herzegovina",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg",
     "population": "3,280,819",
     "yearly_change": "-0.61 %",
     "net_change": "-20,181",
@@ -1892,6 +2024,7 @@
   {
     "position": "136",
     "country": "Mongolia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg",
     "population": "3,278,290",
     "yearly_change": "1.65 %",
     "net_change": "53,123",
@@ -1906,6 +2039,7 @@
   {
     "position": "137",
     "country": "Armenia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg",
     "population": "2,963,243",
     "yearly_change": "0.19 %",
     "net_change": "5,512",
@@ -1920,6 +2054,7 @@
   {
     "position": "138",
     "country": "Jamaica",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg",
     "population": "2,961,167",
     "yearly_change": "0.44 %",
     "net_change": "12,888",
@@ -1934,6 +2069,7 @@
   {
     "position": "139",
     "country": "Qatar",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg",
     "population": "2,881,053",
     "yearly_change": "1.73 %",
     "net_change": "48,986",
@@ -1948,6 +2084,7 @@
   {
     "position": "140",
     "country": "Albania",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg",
     "population": "2,877,797",
     "yearly_change": "-0.11 %",
     "net_change": "-3,120",
@@ -1962,6 +2099,7 @@
   {
     "position": "141",
     "country": "Puerto Rico",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PR.svg",
     "population": "2,860,853",
     "yearly_change": "-2.47 %",
     "net_change": "-72,555",
@@ -1976,6 +2114,7 @@
   {
     "position": "142",
     "country": "Lithuania",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg",
     "population": "2,722,289",
     "yearly_change": "-1.35 %",
     "net_change": "-37,338",
@@ -1990,6 +2129,7 @@
   {
     "position": "143",
     "country": "Namibia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg",
     "population": "2,540,905",
     "yearly_change": "1.86 %",
     "net_change": "46,375",
@@ -2004,6 +2144,7 @@
   {
     "position": "144",
     "country": "Gambia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg",
     "population": "2,416,668",
     "yearly_change": "2.94 %",
     "net_change": "68,962",
@@ -2018,6 +2159,7 @@
   {
     "position": "145",
     "country": "Botswana",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg",
     "population": "2,351,627",
     "yearly_change": "2.08 %",
     "net_change": "47,930",
@@ -2032,6 +2174,7 @@
   {
     "position": "146",
     "country": "Gabon",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg",
     "population": "2,225,734",
     "yearly_change": "2.45 %",
     "net_change": "53,155",
@@ -2046,6 +2189,7 @@
   {
     "position": "147",
     "country": "Lesotho",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg",
     "population": "2,142,249",
     "yearly_change": "0.80 %",
     "net_change": "16,981",
@@ -2060,6 +2204,7 @@
   {
     "position": "148",
     "country": "North Macedonia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg",
     "population": "2,083,374",
     "yearly_change": "0.00 %",
     "net_change": "-85",
@@ -2074,6 +2219,7 @@
   {
     "position": "149",
     "country": "Slovenia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg",
     "population": "2,078,938",
     "yearly_change": "0.01 %",
     "net_change": "284",
@@ -2088,6 +2234,7 @@
   {
     "position": "150",
     "country": "Guinea-Bissau",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg",
     "population": "1,968,001",
     "yearly_change": "2.45 %",
     "net_change": "47,079",
@@ -2102,6 +2249,7 @@
   {
     "position": "151",
     "country": "Latvia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg",
     "population": "1,886,198",
     "yearly_change": "-1.08 %",
     "net_change": "-20,545",
@@ -2116,6 +2264,7 @@
   {
     "position": "152",
     "country": "Bahrain",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg",
     "population": "1,701,575",
     "yearly_change": "3.68 %",
     "net_change": "60,403",
@@ -2130,6 +2279,7 @@
   {
     "position": "153",
     "country": "Equatorial Guinea",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg",
     "population": "1,402,985",
     "yearly_change": "3.47 %",
     "net_change": "46,999",
@@ -2144,6 +2294,7 @@
   {
     "position": "154",
     "country": "Trinidad and Tobago",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg",
     "population": "1,399,488",
     "yearly_change": "0.32 %",
     "net_change": "4,515",
@@ -2158,6 +2309,7 @@
   {
     "position": "155",
     "country": "Estonia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg",
     "population": "1,326,535",
     "yearly_change": "0.07 %",
     "net_change": "887",
@@ -2172,6 +2324,7 @@
   {
     "position": "156",
     "country": "Timor-Leste",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg",
     "population": "1,318,445",
     "yearly_change": "1.96 %",
     "net_change": "25,326",
@@ -2186,6 +2339,7 @@
   {
     "position": "157",
     "country": "Mauritius",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg",
     "population": "1,271,768",
     "yearly_change": "0.17 %",
     "net_change": "2,100",
@@ -2200,6 +2354,7 @@
   {
     "position": "158",
     "country": "Cyprus",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg",
     "population": "1,207,359",
     "yearly_change": "0.73 %",
     "net_change": "8,784",
@@ -2214,6 +2369,7 @@
   {
     "position": "159",
     "country": "Eswatini",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg",
     "population": "1,160,164",
     "yearly_change": "1.05 %",
     "net_change": "12,034",
@@ -2228,6 +2384,7 @@
   {
     "position": "160",
     "country": "Djibouti",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg",
     "population": "988,000",
     "yearly_change": "1.48 %",
     "net_change": "14,440",
@@ -2242,6 +2399,7 @@
   {
     "position": "161",
     "country": "Fiji",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg",
     "population": "896,445",
     "yearly_change": "0.73 %",
     "net_change": "6,492",
@@ -2256,6 +2414,7 @@
   {
     "position": "162",
     "country": "Réunion",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RE.svg",
     "population": "895,312",
     "yearly_change": "0.72 %",
     "net_change": "6,385",
@@ -2270,6 +2429,7 @@
   {
     "position": "163",
     "country": "Comoros",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg",
     "population": "869,601",
     "yearly_change": "2.20 %",
     "net_change": "18,715",
@@ -2284,6 +2444,7 @@
   {
     "position": "164",
     "country": "Guyana",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg",
     "population": "786,552",
     "yearly_change": "0.48 %",
     "net_change": "3,786",
@@ -2298,6 +2459,7 @@
   {
     "position": "165",
     "country": "Bhutan",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg",
     "population": "771,608",
     "yearly_change": "1.12 %",
     "net_change": "8,516",
@@ -2312,6 +2474,7 @@
   {
     "position": "166",
     "country": "Solomon Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg",
     "population": "686,884",
     "yearly_change": "2.55 %",
     "net_change": "17,061",
@@ -2326,6 +2489,7 @@
   {
     "position": "167",
     "country": "Macao",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MO.svg",
     "population": "649,335",
     "yearly_change": "1.39 %",
     "net_change": "8,890",
@@ -2340,6 +2504,7 @@
   {
     "position": "168",
     "country": "Montenegro",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg",
     "population": "628,066",
     "yearly_change": "0.01 %",
     "net_change": "79",
@@ -2354,6 +2519,7 @@
   {
     "position": "169",
     "country": "Luxembourg",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg",
     "population": "625,978",
     "yearly_change": "1.66 %",
     "net_change": "10,249",
@@ -2368,6 +2534,7 @@
   {
     "position": "170",
     "country": "Western Sahara",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EH.svg",
     "population": "597,339",
     "yearly_change": "2.55 %",
     "net_change": "14,876",
@@ -2382,6 +2549,7 @@
   {
     "position": "171",
     "country": "Suriname",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg",
     "population": "586,632",
     "yearly_change": "0.90 %",
     "net_change": "5,260",
@@ -2396,6 +2564,7 @@
   {
     "position": "172",
     "country": "Cabo Verde",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg",
     "population": "555,987",
     "yearly_change": "1.10 %",
     "net_change": "6,052",
@@ -2410,6 +2579,7 @@
   {
     "position": "173",
     "country": "Maldives",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg",
     "population": "540,544",
     "yearly_change": "1.81 %",
     "net_change": "9,591",
@@ -2424,6 +2594,7 @@
   {
     "position": "174",
     "country": "Malta",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg",
     "population": "441,543",
     "yearly_change": "0.27 %",
     "net_change": "1,171",
@@ -2438,6 +2609,7 @@
   {
     "position": "175",
     "country": "Brunei",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg",
     "population": "437,479",
     "yearly_change": "0.97 %",
     "net_change": "4,194",
@@ -2452,6 +2624,7 @@
   {
     "position": "176",
     "country": "Guadeloupe",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GP.svg",
     "population": "400,124",
     "yearly_change": "0.02 %",
     "net_change": "68",
@@ -2466,6 +2639,7 @@
   {
     "position": "177",
     "country": "Belize",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg",
     "population": "397,628",
     "yearly_change": "1.86 %",
     "net_change": "7,275",
@@ -2480,6 +2654,7 @@
   {
     "position": "178",
     "country": "Bahamas",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg",
     "population": "393,244",
     "yearly_change": "0.97 %",
     "net_change": "3,762",
@@ -2494,6 +2669,7 @@
   {
     "position": "179",
     "country": "Martinique",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MQ.svg",
     "population": "375,265",
     "yearly_change": "-0.08 %",
     "net_change": "-289",
@@ -2508,6 +2684,7 @@
   {
     "position": "180",
     "country": "Iceland",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg",
     "population": "341,243",
     "yearly_change": "0.65 %",
     "net_change": "2,212",
@@ -2522,6 +2699,7 @@
   {
     "position": "181",
     "country": "Vanuatu",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg",
     "population": "307,145",
     "yearly_change": "2.42 %",
     "net_change": "7,263",
@@ -2536,6 +2714,7 @@
   {
     "position": "182",
     "country": "French Guiana",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg",
     "population": "298,682",
     "yearly_change": "2.70 %",
     "net_change": "7,850",
@@ -2550,6 +2729,7 @@
   {
     "position": "183",
     "country": "Barbados",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg",
     "population": "287,375",
     "yearly_change": "0.12 %",
     "net_change": "350",
@@ -2564,6 +2744,7 @@
   {
     "position": "184",
     "country": "New Caledonia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NC.svg",
     "population": "285,498",
     "yearly_change": "0.97 %",
     "net_change": "2,748",
@@ -2578,6 +2759,7 @@
   {
     "position": "185",
     "country": "French Polynesia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg",
     "population": "280,908",
     "yearly_change": "0.58 %",
     "net_change": "1,621",
@@ -2592,6 +2774,7 @@
   {
     "position": "186",
     "country": "Mayotte",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YT.svg",
     "population": "272,815",
     "yearly_change": "2.50 %",
     "net_change": "6,665",
@@ -2620,6 +2803,7 @@
   {
     "position": "188",
     "country": "Samoa",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg",
     "population": "198,414",
     "yearly_change": "0.67 %",
     "net_change": "1,317",
@@ -2634,6 +2818,7 @@
   {
     "position": "189",
     "country": "Saint Lucia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LC.svg",
     "population": "183,627",
     "yearly_change": "0.46 %",
     "net_change": "837",
@@ -2648,6 +2833,7 @@
   {
     "position": "190",
     "country": "Channel Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GG.svg",
     "population": "173,863",
     "yearly_change": "0.93 %",
     "net_change": "1,604",
@@ -2662,6 +2848,7 @@
   {
     "position": "191",
     "country": "Guam",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GU.svg",
     "population": "168,775",
     "yearly_change": "0.89 %",
     "net_change": "1,481",
@@ -2676,6 +2863,7 @@
   {
     "position": "192",
     "country": "Curaçao",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CW.svg",
     "population": "164,093",
     "yearly_change": "0.41 %",
     "net_change": "669",
@@ -2690,6 +2878,7 @@
   {
     "position": "193",
     "country": "Kiribati",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CX.svg",
     "population": "119,449",
     "yearly_change": "1.57 %",
     "net_change": "1,843",
@@ -2704,6 +2893,7 @@
   {
     "position": "194",
     "country": "Micronesia",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg",
     "population": "115,023",
     "yearly_change": "1.06 %",
     "net_change": "1,208",
@@ -2718,6 +2908,7 @@
   {
     "position": "195",
     "country": "Grenada",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg",
     "population": "112,523",
     "yearly_change": "0.46 %",
     "net_change": "520",
@@ -2732,6 +2923,7 @@
   {
     "position": "196",
     "country": "St. Vincent & Grenadines",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VC.svg",
     "population": "110,940",
     "yearly_change": "0.32 %",
     "net_change": "351",
@@ -2746,6 +2938,7 @@
   {
     "position": "197",
     "country": "Aruba",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AW.svg",
     "population": "106,766",
     "yearly_change": "0.43 %",
     "net_change": "452",
@@ -2760,6 +2953,7 @@
   {
     "position": "198",
     "country": "Tonga",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg",
     "population": "105,695",
     "yearly_change": "1.15 %",
     "net_change": "1,201",
@@ -2774,6 +2968,7 @@
   {
     "position": "199",
     "country": "U.S. Virgin Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VI.svg",
     "population": "104,425",
     "yearly_change": "-0.15 %",
     "net_change": "-153",
@@ -2788,6 +2983,7 @@
   {
     "position": "200",
     "country": "Seychelles",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg",
     "population": "98,347",
     "yearly_change": "0.62 %",
     "net_change": "608",
@@ -2802,6 +2998,7 @@
   {
     "position": "201",
     "country": "Antigua and Barbuda",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg",
     "population": "97,929",
     "yearly_change": "0.84 %",
     "net_change": "811",
@@ -2816,6 +3013,7 @@
   {
     "position": "202",
     "country": "Isle of Man",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IM.svg",
     "population": "85,033",
     "yearly_change": "0.53 %",
     "net_change": "449",
@@ -2830,6 +3028,7 @@
   {
     "position": "203",
     "country": "Andorra",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg",
     "population": "77,265",
     "yearly_change": "0.16 %",
     "net_change": "123",
@@ -2844,6 +3043,7 @@
   {
     "position": "204",
     "country": "Dominica",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg",
     "population": "71,986",
     "yearly_change": "0.25 %",
     "net_change": "178",
@@ -2858,6 +3058,7 @@
   {
     "position": "205",
     "country": "Cayman Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KY.svg",
     "population": "65,722",
     "yearly_change": "1.19 %",
     "net_change": "774",
@@ -2872,6 +3073,7 @@
   {
     "position": "206",
     "country": "Bermuda",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg",
     "population": "62,278",
     "yearly_change": "-0.36 %",
     "net_change": "-228",
@@ -2886,6 +3088,7 @@
   {
     "position": "207",
     "country": "Marshall Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg",
     "population": "59,190",
     "yearly_change": "0.68 %",
     "net_change": "399",
@@ -2900,6 +3103,7 @@
   {
     "position": "208",
     "country": "Northern Mariana Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MP.svg",
     "population": "57,559",
     "yearly_change": "0.60 %",
     "net_change": "343",
@@ -2914,6 +3118,7 @@
   {
     "position": "209",
     "country": "Greenland",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg",
     "population": "56,770",
     "yearly_change": "0.17 %",
     "net_change": "98",
@@ -2928,6 +3133,7 @@
   {
     "position": "210",
     "country": "American Samoa",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AS.svg",
     "population": "55,191",
     "yearly_change": "-0.22 %",
     "net_change": "-121",
@@ -2942,6 +3148,7 @@
   {
     "position": "211",
     "country": "Saint Kitts & Nevis",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KN.svg",
     "population": "53,199",
     "yearly_change": "0.71 %",
     "net_change": "376",
@@ -2970,6 +3177,7 @@
   {
     "position": "213",
     "country": "Sint Maarten",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SX.svg",
     "population": "42,876",
     "yearly_change": "1.15 %",
     "net_change": "488",
@@ -2984,6 +3192,7 @@
   {
     "position": "214",
     "country": "Monaco",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg",
     "population": "39,242",
     "yearly_change": "0.71 %",
     "net_change": "278",
@@ -3012,6 +3221,7 @@
   {
     "position": "216",
     "country": "Saint Martin",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MF.svg",
     "population": "38,666",
     "yearly_change": "1.75 %",
     "net_change": "664",
@@ -3026,6 +3236,7 @@
   {
     "position": "217",
     "country": "Liechtenstein",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg",
     "population": "38,128",
     "yearly_change": "0.29 %",
     "net_change": "109",
@@ -3040,6 +3251,7 @@
   {
     "position": "218",
     "country": "San Marino",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg",
     "population": "33,931",
     "yearly_change": "0.21 %",
     "net_change": "71",
@@ -3054,6 +3266,7 @@
   {
     "position": "219",
     "country": "Gibraltar",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GI.svg",
     "population": "33,691",
     "yearly_change": "-0.03 %",
     "net_change": "-10",
@@ -3068,6 +3281,7 @@
   {
     "position": "220",
     "country": "British Virgin Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VG.svg",
     "population": "30,231",
     "yearly_change": "0.67 %",
     "net_change": "201",
@@ -3082,6 +3296,7 @@
   {
     "position": "221",
     "country": "Caribbean Netherlands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BQ.svg",
     "population": "26,223",
     "yearly_change": "0.94 %",
     "net_change": "244",
@@ -3096,6 +3311,7 @@
   {
     "position": "222",
     "country": "Palau",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PW.svg",
     "population": "18,094",
     "yearly_change": "0.48 %",
     "net_change": "86",
@@ -3110,6 +3326,7 @@
   {
     "position": "223",
     "country": "Cook Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CK.svg",
     "population": "17,564",
     "yearly_change": "0.09 %",
     "net_change": "16",
@@ -3124,6 +3341,7 @@
   {
     "position": "224",
     "country": "Anguilla",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AI.svg",
     "population": "15,003",
     "yearly_change": "0.90 %",
     "net_change": "134",
@@ -3138,6 +3356,7 @@
   {
     "position": "225",
     "country": "Tuvalu",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TV.svg",
     "population": "11,792",
     "yearly_change": "1.25 %",
     "net_change": "146",
@@ -3152,6 +3371,7 @@
   {
     "position": "226",
     "country": "Wallis & Futuna",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WF.svg",
     "population": "11,239",
     "yearly_change": "-1.69 %",
     "net_change": "-193",
@@ -3166,6 +3386,7 @@
   {
     "position": "227",
     "country": "Nauru",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg",
     "population": "10,824",
     "yearly_change": "0.63 %",
     "net_change": "68",
@@ -3180,6 +3401,7 @@
   {
     "position": "228",
     "country": "Saint Barthelemy",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BL.svg",
     "population": "9,877",
     "yearly_change": "0.30 %",
     "net_change": "30",
@@ -3194,6 +3416,7 @@
   {
     "position": "229",
     "country": "Saint Helena",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SH.svg",
     "population": "6,077",
     "yearly_change": "0.30 %",
     "net_change": "18",
@@ -3208,6 +3431,7 @@
   {
     "position": "230",
     "country": "Saint Pierre & Miquelon",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PM.svg",
     "population": "5,794",
     "yearly_change": "-0.48 %",
     "net_change": "-28",
@@ -3222,6 +3446,7 @@
   {
     "position": "231",
     "country": "Montserrat",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MS.svg",
     "population": "4,992",
     "yearly_change": "0.06 %",
     "net_change": "3",
@@ -3236,6 +3461,7 @@
   {
     "position": "232",
     "country": "Falkland Islands",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FK.svg",
     "population": "3,480",
     "yearly_change": "3.05 %",
     "net_change": "103",
@@ -3250,6 +3476,7 @@
   {
     "position": "233",
     "country": "Niue",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NU.svg",
     "population": "1,626",
     "yearly_change": "0.68 %",
     "net_change": "11",
@@ -3264,6 +3491,7 @@
   {
     "position": "234",
     "country": "Tokelau",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TK.svg",
     "population": "1,357",
     "yearly_change": "1.27 %",
     "net_change": "17",

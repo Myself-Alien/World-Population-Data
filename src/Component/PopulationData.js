@@ -1,7 +1,7 @@
 import Data from './Api/Data.json';
 import { motion } from 'framer-motion';
-import '../App.css';
 import { useState } from 'react';
+import '../App.css';
 
 const PopulationData = () => {
     const [country] = useState(Data);
@@ -25,12 +25,6 @@ const PopulationData = () => {
                     placeholder="Search a country..."
                     onChange={getData}
                 />
-                {/*<input
-                    type='text'
-                    placeholder='Search Country...'
-                    className='form-control input mb-4'
-                    onChange={getData}
-                />*/}
             </div>
             <ul className='list-group'>
                 {filterOut.length === 0 ? (
@@ -46,7 +40,10 @@ const PopulationData = () => {
                             <li key={Data.id} className='list-group-item'>
                                 <table className='table'>
                                     <thead>
-                                        <tr className='country'>{Data.country}</tr>
+                                        <tr>
+                                            <th className='country'>{Data.country}</th>
+                                            <th><img src={Data.image} alt={Data.country} className='flag' /></th>
+                                        </tr>
                                     </thead>
                                     <tbody>
                                         <tr>

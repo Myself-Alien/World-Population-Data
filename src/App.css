@@ -43,3 +43,8 @@ body
 {
   color: #fff !important;
 }
+.flag
+{
+  height: 50px;
+  width: 50px;
+}
