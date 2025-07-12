@@ -41,8 +41,8 @@ const PopulationData = () => {
                                 <table className='table'>
                                     <thead>
                                         <tr>
-                                            <th className='country'>{Data.country}</th>
-                                            <th><img src={Data.image} alt={Data.country} className='flag' /></th>
+                                            <th className='country'>{Data.country} <img src={Data.image} alt={Data.country} className='flag' /></th>
+                                            <th></th>
                                         </tr>
                                     </thead>
                                     <tbody>
